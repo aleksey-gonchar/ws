@@ -1,4 +1,6 @@
 'use strict';
+const bugsnag = require('bugsnag')
+bugsnag.register('7da7b4d4211f3a22df5798d6602fdf11') // tcd-1.4.x
 
 /*!
  * ws: a node.js websocket client

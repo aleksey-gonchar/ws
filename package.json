@@ -22,8 +22,9 @@
     "test": "make test"
   },
   "dependencies": {
-    "options": ">=0.0.5",
-    "ultron": "1.0.x"
+    "bugsnag": "^1.7.0",
+    "options": "0.0.6",
+    "ultron": "^1.0.2"
   },
   "devDependencies": {
     "ansi": "0.3.x",
